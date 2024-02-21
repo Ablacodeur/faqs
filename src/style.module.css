@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8f478d;
+    background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+}
+
+.copy{
+    padding: 15px;
+}

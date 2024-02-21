@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.container{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    flex-direction: column;
+    max-width: 500px;
+    padding: 25px;
+    font-family: "Work Sans", sans-serif;
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+li{
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+h1{
+    font-weight: 600;
+}
+h5{
+    font-weight: 500;
+    font-style: oblique;
+}
